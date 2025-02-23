@@ -1,1 +1,24 @@
 /* write your override styles here */
+#wall {
+    background: white !important
+   }
+   body {
+     background:none; !important
+     background-size: none; !important
+    background:currentColor !important
+    
+   }
+   .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+     background: none !
+    display: none !important;
+   }
+   
+   #wall {
+     box-shadow: none !important;
+     -webkit-box-shadow: none !important;
+     -moz-box-shadow: none !important;
+     border: none !important;
+   }
+   body {
+     background: white !important
+   }
